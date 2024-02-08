@@ -3,3 +3,11 @@ body {
   color: blue;
   border-radius: 2px solid black;
 }
+.div1 {
+  background-color: brown;
+  width: 200px;
+}
+.div2 {
+  background-color: aquamarine;
+  width: 300px;
+}
