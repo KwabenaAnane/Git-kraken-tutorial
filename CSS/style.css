@@ -6,6 +6,7 @@ body {
 .div1 {
   background-color: brown;
   width: 200px;
+  height: 200px;
 }
 .div2 {
   background-color: aquamarine;
