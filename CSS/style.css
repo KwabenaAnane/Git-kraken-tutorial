@@ -10,4 +10,5 @@ body {
 .div2 {
   background-color: aquamarine;
   width: 300px;
+  border-radius:2px solid blue
 }
