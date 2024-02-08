@@ -2,6 +2,7 @@ body {
   background-color: aquamarine;
   color: blue;
   border-radius: 2px solid black;
+  line-height:1.5;
 }
 .div1 {
   background-color: brown;
