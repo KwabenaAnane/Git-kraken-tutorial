@@ -11,5 +11,6 @@ body {
 .div2 {
   background-color: aquamarine;
   width: 300px;
-  border-radius:2px solid blue
+  border-radius: 2px solid blue;
+  height: 200px;
 }
